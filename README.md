@@ -64,7 +64,8 @@ print(response)
 ## Project Structure 📂
 ```
 .gita-ai/
-├── json notebooks/
+├── bhagavad-gita-ai-wisdom-guide.ipynb
+├── data/
    └── all json files here
 ├── main.py
 └── requirements.txt
