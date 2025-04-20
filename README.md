@@ -42,8 +42,8 @@ Take short walk breaks hourly
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/gita-ai.git
-cd gita-ai
+git clone (https://github.com/Vicky16032205/Gen-AI-Intensive-Course-Capstone.git)
+cd Gen-AI-Intensive-Course-Capstone
 ```
 
 2. Install requirements:
@@ -52,18 +52,9 @@ pip install -r requirements.txt
 ```
 3. You don't need to save your Gemini API key because when you will run the python file then it will itself ask for api key and then you have to enter it there only.
 
-## Usage 🚀
-```bash
-from gita_ai import GitaGuide
-
-guide = GitaGuide()
-response = guide.ask("How to find purpose?")
-print(response)
-```
-
 ## Project Structure 📂
 ```
-.gita-ai/
+.Gen-AI-Intensive-Course-Capstone/
 ├── bhagavad-gita-ai-wisdom-guide.ipynb
 ├── data/
    └── all json files here
