@@ -50,7 +50,13 @@ cd Gen-AI-Intensive-Course-Capstone
 ```bash
 pip install -r requirements.txt
 ```
-3. You don't need to save your Gemini API key because when you will run the python file then it will itself ask for api key and then you have to enter it there only.
+
+3. Run python file
+```bash
+python main.py
+```
+
+4. You don't need to save your Gemini API key because when you will run the python file then it will itself ask for api key and then you have to enter it there only.
 
 ## Project Structure 📂
 ```
