@@ -93,3 +93,9 @@ MIT License - see LICENSE for details.
 - Google Cloud AI/ML team for course materials
 - Kaggle for GPU resources
 - Sanskrit scholars whose translations made this possible
+
+## 🔗 Project Links
+
+- 📺 [Watch the YouTube Demo](https://youtu.be/HYLJCqLbVZI)
+- 📊 [Explore the Kaggle Notebook](https://www.kaggle.com/code/vicky1603/bhagavad-gita-ai-wisdom-guide)
+- 📝 [Read the Blog Post](https://dev.to/vicky_gupta/unlocking-ancient-wisdom-with-ai-your-personal-bhagavad-gita-guide-for-modern-life-45k2)
