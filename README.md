@@ -42,7 +42,7 @@ Take short walk breaks hourly
 
 1. Clone repository:
 ```bash
-git clone (https://github.com/Vicky16032205/Gen-AI-Intensive-Course-Capstone.git)
+git clone https://github.com/Vicky16032205/Gen-AI-Intensive-Course-Capstone.git
 cd Gen-AI-Intensive-Course-Capstone
 ```
 
